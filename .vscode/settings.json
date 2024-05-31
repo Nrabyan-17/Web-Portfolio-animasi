@@ -1,0 +1,15 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 17,
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "workbench.colorTheme": "Noctis Minimus",
+}
+
+// Catatan: - Class group berfungsi untuk membuat semua animasi aktif atau berjalan secara bersamaan,  
+// - transition ease-in-out duration-300 delay-150 group-target:translate-y-10 group-target:opacity-100 opacity-0
+// - 
+// - transition ease-in-out duration-300 group-hover:bg-slate-100 --> Animasi untuk menu navigasi
+// - transition duration-300 delay-150 group-target:scale-100 scale-0
+// - transition ease-in-out duration-300 delay-0 group-target:scale-100 group-target:opacity-100 scale-0 opacity-0
+
+
